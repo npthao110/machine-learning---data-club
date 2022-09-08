@@ -1,1 +1,1 @@
-# machine-learning---data-club
+# machine-learning-data-club
